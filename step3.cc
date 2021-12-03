@@ -1,5 +1,5 @@
 /**
- * @file step3.c
+ * @file step3.cc
  * @author Alexander Nemecek
  * @brief  counts the line and characters from a given input
  * @version 0.1
